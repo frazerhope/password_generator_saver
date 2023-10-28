@@ -8,7 +8,8 @@ A password saver and generator gui for saving passwords locally from website ent
 
 <h2>Modules and Skills Shown</h2>
 
-- <b>Tkinter</b> 
+- <b>Tkinter</b>
+- <b>Json </b>
 
 
 <h2>Program Demo:</h2>
